@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T11:34:57.879Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yJQKHaoamIatR5x4cHar" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T11:51:06.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BHuA7tzTs-T58CzrxCLp" version="21.2.6" type="github">
   <diagram name="Page-1" id="tfuzhllJTT45AtUf2vew">
     <mxGraphModel dx="1780" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="FVwCDYh0nOwrm6psJOgy-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="376" y="65" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FVwCDYh0nOwrm6psJOgy-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤制&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FVwCDYh0nOwrm6psJOgy-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤制&lt;/span&gt;" style="text;align=center;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="396" y="60" width="46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FVwCDYh0nOwrm6psJOgy-18" value="" style="endArrow=classic;html=1;rounded=0;jumpSize=12;" edge="1" parent="1">
@@ -128,13 +128,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FVwCDYh0nOwrm6psJOgy-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤汤特征滋味&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#A1A1A1;fillColor=#A1A1A1;" vertex="1" parent="1">
+        <mxCell id="FVwCDYh0nOwrm6psJOgy-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤汤特征滋味&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#cdeb8b;strokeColor=#36393d;gradientColor=none;gradientDirection=north;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FVwCDYh0nOwrm6psJOgy-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FVwCDYh0nOwrm6psJOgy-23" target="FVwCDYh0nOwrm6psJOgy-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FVwCDYh0nOwrm6psJOgy-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;挥发性特征风味&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=#A1A1A1;fillColor=#A1A1A1;" vertex="1" parent="1">
+        <mxCell id="FVwCDYh0nOwrm6psJOgy-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;挥发性特征风味&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="240" width="132" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FVwCDYh0nOwrm6psJOgy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FVwCDYh0nOwrm6psJOgy-26">
@@ -254,8 +254,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FVwCDYh0nOwrm6psJOgy-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GCIMS&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#A1A1A1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="FVwCDYh0nOwrm6psJOgy-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GCIMS&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;gradientDirection=north;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="691" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FVwCDYh0nOwrm6psJOgy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FVwCDYh0nOwrm6psJOgy-53" target="FVwCDYh0nOwrm6psJOgy-56">
           <mxGeometry relative="1" as="geometry" />
@@ -325,7 +325,7 @@
         <mxCell id="FVwCDYh0nOwrm6psJOgy-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;云服务器&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="426" y="630" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVwCDYh0nOwrm6psJOgy-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智能手机平台&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#A1A1A1;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="FVwCDYh0nOwrm6psJOgy-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;智能手机平台&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d80073;strokeColor=#A50040;shadow=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="626" y="630" width="164" height="60" as="geometry" />
         </mxCell>
       </root>
