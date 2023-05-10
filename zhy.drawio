@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T04:44:44.942Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="V7GcmGvNrzRSjbxouOYm" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T08:53:21.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3gXO8SFqSP_LXoZmHuw2" version="21.2.9" type="github">
   <diagram name="Page-1" id="tfuzhllJTT45AtUf2vew">
-    <mxGraphModel dx="1609" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2413" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -492,6 +492,63 @@
         </mxCell>
         <mxCell id="X1_3HiMKgyW_f9map4IM-68" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;融合型多功能滋味传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1560" y="350" width="30" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-74" target="X1_3HiMKgyW_f9map4IM-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征酮类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-76" target="X1_3HiMKgyW_f9map4IM-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-76" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征醛类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-78" target="X1_3HiMKgyW_f9map4IM-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征酯类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-80" target="X1_3HiMKgyW_f9map4IM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;酮类检测模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-82" target="X1_3HiMKgyW_f9map4IM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-82" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;醛类检测模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="970" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-84" target="X1_3HiMKgyW_f9map4IM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-84" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;酯类检测模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.078;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-85" target="X1_3HiMKgyW_f9map4IM-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征气味传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="967.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-87" target="X1_3HiMKgyW_f9map4IM-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-87" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;特征醇类&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-88" target="X1_3HiMKgyW_f9map4IM-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;醇类检测模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-91" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;挥发性风味传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="900" width="30" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
