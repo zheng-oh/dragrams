@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T08:53:21.224Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3gXO8SFqSP_LXoZmHuw2" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T09:30:57.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RlwoATtzYVl77s2EiPdw" version="21.2.9" type="github">
   <diagram name="Page-1" id="tfuzhllJTT45AtUf2vew">
-    <mxGraphModel dx="2413" dy="1394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,6 +549,96 @@
         </mxCell>
         <mxCell id="X1_3HiMKgyW_f9map4IM-91" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;挥发性风味传感器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1560" y="900" width="30" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-94" target="X1_3HiMKgyW_f9map4IM-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-94" target="X1_3HiMKgyW_f9map4IM-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-94" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;原料验收&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-95" target="X1_3HiMKgyW_f9map4IM-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;辅料验收&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-96" target="X1_3HiMKgyW_f9map4IM-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;鸭翅、鸭脖&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-97" target="X1_3HiMKgyW_f9map4IM-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;鸭头、鸭舌、鸭腿等&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="150" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-100" target="X1_3HiMKgyW_f9map4IM-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-100" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;解冻&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-103" target="X1_3HiMKgyW_f9map4IM-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-103" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;清洗&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-104" target="X1_3HiMKgyW_f9map4IM-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1980" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1970" y="490" />
+              <mxPoint x="1970" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-104" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腌制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-105" target="X1_3HiMKgyW_f9map4IM-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-105" target="X1_3HiMKgyW_f9map4IM-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;香辛料、调味料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2230" y="225" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-107" target="X1_3HiMKgyW_f9map4IM-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-107" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;腌制配料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1970" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;卤制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1902.5" y="475" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X1_3HiMKgyW_f9map4IM-114" target="X1_3HiMKgyW_f9map4IM-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2360" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-114" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤制配料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-124" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="485" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X1_3HiMKgyW_f9map4IM-125" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卤汤&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1902.5" y="565" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
